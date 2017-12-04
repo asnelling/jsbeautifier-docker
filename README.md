@@ -30,13 +30,13 @@ Refer to upstream author's [GitHub page](https://github.com/beautify-web/js-beau
 
 ### Tags
 
-- [`1.7python-jessie`, `latest`, (python/jessie/Dockerfile)](https://github.com/asnelling/docker-jsbeautifier/blob/master/python/jessie/Dockerfile)
-- [`1.7python-slim` (python/jessie/Dockerfile)](https://github.com/asnelling/docker-jsbeautifier/blob/master/python/slim/Dockerfile)
-- [`1.7python-stretch` (python/jessie/Dockerfile)](https://github.com/asnelling/docker-jsbeautifier/blob/master/python/stretch/Dockerfile)
-- [`1.7python-alpine` (python/jessie/Dockerfile)](https://github.com/asnelling/docker-jsbeautifier/blob/master/python/alpine/Dockerfile)
-- [`1.7js-jessie`, (js/jessie/Dockerfile)](https://github.com/asnelling/docker-jsbeautifier/blob/master/js/jessie/Dockerfile)
-- [`1.7js-slim`, (js/jessie/Dockerfile)](https://github.com/asnelling/docker-jsbeautifier/blob/master/js/slim/Dockerfile)
-- [`1.7js-stretch`, (js/jessie/Dockerfile)](https://github.com/asnelling/docker-jsbeautifier/blob/master/js/stretch/Dockerfile)
-- [`1.7js-alpine`, (js/jessie/Dockerfile)](https://github.com/asnelling/docker-jsbeautifier/blob/master/js/alpine/Dockerfile)
+- [`1.7python-jessie`, `latest`, (python/jessie/Dockerfile)](https://github.com/asnelling/jsbeautifier-docker/blob/master/python/jessie/Dockerfile)
+- [`1.7python-slim` (python/jessie/Dockerfile)](https://github.com/asnelling/jsbeautifier-docker/blob/master/python/slim/Dockerfile)
+- [`1.7python-stretch` (python/jessie/Dockerfile)](https://github.com/asnelling/jsbeautifier-docker/blob/master/python/stretch/Dockerfile)
+- [`1.7python-alpine` (python/jessie/Dockerfile)](https://github.com/asnelling/jsbeautifier-docker/blob/master/python/alpine/Dockerfile)
+- [`1.7js-jessie`, (js/jessie/Dockerfile)](https://github.com/asnelling/jsbeautifier-docker/blob/master/js/jessie/Dockerfile)
+- [`1.7js-slim`, (js/jessie/Dockerfile)](https://github.com/asnelling/jsbeautifier-docker/blob/master/js/slim/Dockerfile)
+- [`1.7js-stretch`, (js/jessie/Dockerfile)](https://github.com/asnelling/jsbeautifier-docker/blob/master/js/stretch/Dockerfile)
+- [`1.7js-alpine`, (js/jessie/Dockerfile)](https://github.com/asnelling/jsbeautifier-docker/blob/master/js/alpine/Dockerfile)
 
 If you'd like to use the
